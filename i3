@@ -1,1 +1,0 @@
-/home/violet/.config/i3

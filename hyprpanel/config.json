@@ -1,0 +1,57 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "theme.font.name": "JetBrains Mono",
+  "theme.font.label": "JetBrains Mono",
+  "menus.clock.weather.location": "01749",
+  "menus.clock.weather.unit": "metric",
+  "menus.dashboard.powermenu.avatar.image": "/home/violet/Pictures/pfp.png",
+  "menus.dashboard.stats.enable_gpu": true,
+  "bar.launcher.icon": "",
+  "theme.osd.enable": true,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [],
+      "middle": [],
+      "right": []
+    }
+  },
+  "theme.bar.floating": false,
+  "theme.bar.location": "top",
+  "bar.autoHide": "never",
+  "theme.bar.buttons.enableBorders": false,
+  "menus.dashboard.directories.left.directory1.command": "dolphin Downloads",
+  "menus.dashboard.directories.right.directory3.command": "dolphin",
+  "menus.dashboard.directories.right.directory2.command": "dolphin Pictures",
+  "menus.dashboard.directories.right.directory1.command": "dolphin Documents",
+  "menus.dashboard.directories.left.directory3.command": "dolphin Programming",
+  "menus.dashboard.directories.left.directory3.label": "󰚝 Programming",
+  "menus.dashboard.directories.left.directory2.command": "dolphin Videos",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Firefox",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "firefox",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut3.command": "flatpak run com.discordapp.Discord",
+  "menus.dashboard.shortcuts.left.shortcut2.command": "",
+  "menus.dashboard.shortcuts.left.shortcut2.icon": "",
+  "menus.dashboard.shortcuts.left.shortcut2.tooltip": "Tauon",
+  "menus.dashboard.shortcuts.left.shortcut4.command": "vicinae toggle"
+}
